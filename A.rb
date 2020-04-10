@@ -19,4 +19,4 @@ puts poor(10, 3, 3) == nil
 puts poor(9, 3, 3) == "YES"
 puts poor("a", 1, 1) == nil
 
-#al true
+#all true
